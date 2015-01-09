@@ -1,0 +1,60 @@
+
+
+/********MEDIA QUERIES***********/
+
+
+@media screen and (max-width: 1366px){
+	
+
+	#main-nav{
+		width: 650px;
+		font-size: 1em;
+	}
+
+	#main-nav ul li ul{
+		left: -15px;
+	}
+
+	
+	.nosotros{
+		width: 500px;
+
+	}
+	
+	.banner{
+		width: 500px;
+		height: 100px;
+	}
+
+
+}
+
+
+
+@media screen and (max-width: 1200px){
+	
+
+	#main-nav{
+		width: 550px;
+		font-size: 0.8em;
+	}
+
+	#main-nav ul li ul{
+		left: -20px;
+		font-size: 1.5em;
+	}
+
+	
+	.nosotros{
+		width: 400px;
+
+	}
+
+	.banner{
+		width: 450px;
+		height: 80px;
+	}
+
+
+
+}
